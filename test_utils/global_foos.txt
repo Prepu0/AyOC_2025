@@ -1,0 +1,7 @@
+global_foo_label free
+global_foo_label EJERCICIO_2A_HECHO
+global_foo_label EJERCICIO_2B_HECHO
+global_foo_label EJERCICIO_2C_HECHO
+global_foo_label optimizar
+global_foo_label contarCombustibleAsignado
+global_foo_label modificarUnidad
